@@ -1,7 +1,7 @@
-document.addEventListener("DOMContentLoaded", contentLoaded)
+document.addEventListener("DOMContentLoaded", contentLoaded);
 
 function contentLoaded() {
-    const hider = document.getElementById("hider")
+    const hider = document.getElementById("hider");
     hider.addEventListener("click", hideTheText);
     
     function hideTheText(){
