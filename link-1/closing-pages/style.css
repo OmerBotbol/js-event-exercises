@@ -1,0 +1,11 @@
+.pane{
+    position: relative;
+    border: black 1px solid;
+    width: 600px;
+    margin: 0;
+}
+.remove-button{
+    position: absolute;
+    right: 0px;
+    display: inline;
+}
